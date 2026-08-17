@@ -1,7 +1,7 @@
-# agentic-verification-workshop
+# Agentic Verification Workshop
 > Materials for the workshop, "Agentic Formal Verification with Lean"
 
-This workshop will provide an intro to Formal Verification and show the basics of using [Lean prover](https://lean-lang.org/) with and without coding agents.
+This session will provide an intro to Formal Verification and show the basics of using [Lean prover](https://lean-lang.org/) with and without coding agents.
 
 # More to come
 
