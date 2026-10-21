@@ -64,3 +64,9 @@ codex mcp add lean-lsp -- uvx lean-lsp-mcp
 ```
 
 See [Codex MCP docs](https://learn.chatgpt.com/docs/extend/mcp)
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE), with one exception:
+
+* [`Workshop/GnuCash/`](Workshop/GnuCash/) contains material copied from or derived from [GnuCash](https://github.com/Gnucash/gnucash) and is licensed under the GNU GPL, version 2 or (at your option) any later version. See [`Workshop/GnuCash/LICENSE`](Workshop/GnuCash/LICENSE).
