@@ -14,6 +14,8 @@ In the meantime, see resources in [How to Learn Theorem Provers](https://raymyer
 
 Lean has a [recommended installation](https://lean-lang.org/install/) as a VS Code extension and alternate [manual options](https://lean-lang.org/install/manual/).
 
+*Fallback: If you cannot install Lean you can paste code into the [Lean web editor](https://live.lean-lang.org/).*
+
 ### Your favorite coding agent (Required)
 
 You can choose what agent to use. Here are some popular ones:
