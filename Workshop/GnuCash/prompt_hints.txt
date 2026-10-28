@@ -1,0 +1,13 @@
+In Workshop/GnuCash/ we have notes on the behavior of Workshop/GnuCash/upstream/advanced-portfolio.scm. Let's make a plan to specify in Lean, and provide a verified lean impl. Plan in  Workshop/GnuCash/SPEC_PLAN.md, task bullets and milestone sections.
+
+---
+
+Review this, are you overcomplicating anything?
+
+---
+
+/goal Advance Workshop/GnuCash/SPEC_PLAN.md until done or you cannot make progress. Tick off bullets as you go, log problems in TROUBLE.md.
+
+---
+
+Create SAMPLE_EXPLAINED.md with a snippet from the scheme and corresponding lean and theorems with explanation.
